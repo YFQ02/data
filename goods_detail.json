@@ -4,7 +4,6 @@
     "data": [
         {
             "id": 0,
-            "goods_id":001,
             "banners": [
                 "https://gw.alicdn.com/imgextra/i4/2217944454066/O1CN01oSEmFY1fuHMsqLbqZ_!!2217944454066.jpg_240x10000Q75.jpg_.webp",
                 "https://gw.alicdn.com/imgextra/i2/2217944454066/O1CN01oXmf8V1fuHMyRCGzX_!!2217944454066.jpg_240x10000Q75.jpg_.webp",
@@ -25,7 +24,6 @@
         },
         {
             "id": 1,
-            "goods_id":002,
             "banners": [
                 "https://gw.alicdn.com/imgextra/i4/2217944454066/O1CN01oSEmFY1fuHMsqLbqZ_!!2217944454066.jpg_240x10000Q75.jpg_.webp",
                 "https://gw.alicdn.com/imgextra/i2/2217944454066/O1CN01oXmf8V1fuHMyRCGzX_!!2217944454066.jpg_240x10000Q75.jpg_.webp",
