@@ -1,0 +1,46 @@
+{
+    "code": 200,
+    "message": "OK",
+    "data": [
+        {
+            "id": 0,
+            "banners": [
+                "https://gw.alicdn.com/imgextra/i4/2217944454066/O1CN01oSEmFY1fuHMsqLbqZ_!!2217944454066.jpg_240x10000Q75.jpg_.webp",
+                "https://gw.alicdn.com/imgextra/i2/2217944454066/O1CN01oXmf8V1fuHMyRCGzX_!!2217944454066.jpg_240x10000Q75.jpg_.webp",
+                "https://gw.alicdn.com/imgextra/i2/2217944454066/O1CN01KOmWfO1fuHMvXhRZW_!!2217944454066.jpg_240x10000Q75.jpg_.webp",
+                "https://gw.alicdn.com/imgextra/i2/2217944454066/O1CN01jG2Adh1fuHMu2vMcn_!!2217944454066.jpg_240x10000Q75.jpg_.webp",
+                "https://gw.alicdn.com/imgextra/i4/2217944454066/O1CN017FFdMl1fuHMzvCUOL_!!2217944454066.jpg_240x10000Q75.jpg_.webp"
+            ],
+            "price": 59.8,
+            "sold": "2万",
+            "content": "懒人沙发可躺可睡单人豆袋人类狗窝阳台卧室榻榻米宿舍小沙发躺椅",
+            "address": "浙江金华  快递：免运费",
+            "picture": [
+                "https://img.alicdn.com/imgextra/i4/2217944454066/O1CN012hU2V11fuHMoJZnUh_!!2217944454066.jpg",
+                "https://img.alicdn.com/imgextra/i2/2217944454066/O1CN01FWDgQc1fuHMx2sAuJ_!!2217944454066.jpg",
+                "https://img.alicdn.com/imgextra/i3/2217944454066/O1CN01iqz8T21fuHMvXhe7b_!!2217944454066.jpg",
+                "https://img.alicdn.com/imgextra/i4/2217944454066/O1CN01Ywh9no1fuHMsqKKwj_!!2217944454066.jpg"
+            ]
+        },
+        {
+            "id": 1,
+            "banners": [
+                "https://gw.alicdn.com/imgextra/i4/2217944454066/O1CN01oSEmFY1fuHMsqLbqZ_!!2217944454066.jpg_240x10000Q75.jpg_.webp",
+                "https://gw.alicdn.com/imgextra/i2/2217944454066/O1CN01oXmf8V1fuHMyRCGzX_!!2217944454066.jpg_240x10000Q75.jpg_.webp",
+                "https://gw.alicdn.com/imgextra/i2/2217944454066/O1CN01KOmWfO1fuHMvXhRZW_!!2217944454066.jpg_240x10000Q75.jpg_.webp",
+                "https://gw.alicdn.com/imgextra/i2/2217944454066/O1CN01jG2Adh1fuHMu2vMcn_!!2217944454066.jpg_240x10000Q75.jpg_.webp",
+                "https://gw.alicdn.com/imgextra/i4/2217944454066/O1CN017FFdMl1fuHMzvCUOL_!!2217944454066.jpg_240x10000Q75.jpg_.webp"
+            ],
+            "price": 59.8,
+            "sold": "1000+",
+            "content": "商品详情  商品详情  商品详情  商品详情  商品详情  商品详情",
+            "address": "浙江金华  快递：免运费",
+            "picture": [
+                "https://img.alicdn.com/imgextra/i4/2217944454066/O1CN012hU2V11fuHMoJZnUh_!!2217944454066.jpg",
+                "https://img.alicdn.com/imgextra/i2/2217944454066/O1CN01FWDgQc1fuHMx2sAuJ_!!2217944454066.jpg",
+                "https://img.alicdn.com/imgextra/i3/2217944454066/O1CN01iqz8T21fuHMvXhe7b_!!2217944454066.jpg",
+                "https://img.alicdn.com/imgextra/i4/2217944454066/O1CN01Ywh9no1fuHMsqKKwj_!!2217944454066.jpg"
+            ]
+        }
+    ]
+}
